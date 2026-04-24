@@ -30,7 +30,7 @@ Microsoft Excel – Data source <br>
 Data Cleaning & Transformation <br>
 Data Visualization Techniques <br>
 
-##🎯 Purpose
+## 🎯 Purpose
 Identify top-performing regions and products <br>
 Track sales trends over time <br>
 Improve business decision-making <br>
